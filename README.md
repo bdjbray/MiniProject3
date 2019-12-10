@@ -1,3 +1,6 @@
 # MiniProject3
-A simple android app with information of courses
+A sample android app and a report about Compare REACT Native versus iOS and Android application environment
 
+# Environment
+IDE:Android Studio
+Simulator:Andorid Virtual Devices 
